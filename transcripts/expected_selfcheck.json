@@ -1,0 +1,42 @@
+{
+  "call_001": {
+    "contact_name": "Schröder",
+    "intent": "service",
+    "sentiment": "neutral",
+    "vehicle_make": "VW",
+    "vehicle_model": "Passat",
+    "license_plate": "M-AB 4721",
+    "email": null,
+    "follow_up_required": false
+  },
+  "call_002": {
+    "contact_name": null,
+    "intent": "information",
+    "sentiment": "neutral",
+    "vehicle_make": null,
+    "vehicle_model": null,
+    "license_plate": null,
+    "email": null,
+    "follow_up_required": false
+  },
+  "call_003": {
+    "contact_name": "Klein",
+    "intent": "complaint",
+    "sentiment": "negative",
+    "vehicle_make": null,
+    "vehicle_model": null,
+    "license_plate": null,
+    "email": null,
+    "follow_up_required": true
+  },
+  "call_013": {
+    "contact_name": null,
+    "intent": "complaint",
+    "sentiment": "negative",
+    "vehicle_make": null,
+    "vehicle_model": null,
+    "license_plate": null,
+    "email": null,
+    "follow_up_required": true
+  }
+}

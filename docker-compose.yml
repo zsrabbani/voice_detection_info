@@ -1,0 +1,9 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: cara8
+      POSTGRES_PASSWORD: cara8
+      POSTGRES_DB: cara8
+    ports:
+      - "5432:5432"

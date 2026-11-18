@@ -1,0 +1,4 @@
+pydantic==2.9.2
+psycopg[binary]==3.2.13
+pytest==8.3.2
+# plus the LLM SDK you choose (anthropic / openai / google-generativeai)
